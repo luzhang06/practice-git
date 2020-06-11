@@ -1,1 +1,2 @@
 # Practicing Git
+Hello, Git!
